@@ -1,0 +1,37 @@
+
+[2022-07-10 15:31:11] StarLight Services#0177
+<@753681550670954536>
+thanks for opening a ticket lol
+
+[2022-07-10 15:31:11] StarLight Services#0177
+
+Graphic Effects Request
+What type of GFX would you like?
+a
+
+Would you like a text, if so what?
+a
+
+What theme and colours would you like?
+a
+
+Do you have an image you'd like us to use?
+a
+
+If you want, please choose a font (here)[https://dafont.com].
+a
+
+Can you give a simple description of how it should look?
+k
+
+
+[2022-07-10 15:31:23] StarLight Services#0177
+
+Channel Claimed!
+**Previously claimed by:** <@None> (`None`)
+**Now claimed by:** <@753681550670954536> (`753681550670954536`)
+
+[2022-07-10 15:31:33] StarLight Services#0177
+
+Channel Unclaimed!
+The channel has been unclaimed.
